@@ -1,0 +1,3 @@
+0 Dangerous
+1 Safe
+2 Background
